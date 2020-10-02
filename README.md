@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img align="center" alt="IMG" src="public/calculator.png" width="483" height="483" />
+
+
 ## Available Scripts
 
 In the project directory, you can run:
